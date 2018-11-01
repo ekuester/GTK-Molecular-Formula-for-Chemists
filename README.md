@@ -6,7 +6,7 @@ This program is accompanying my life since years, I wrote it first in BASIC, fol
 
 The development environment in the moment is Netbeans IDE 8.2 under Fedora 28 Cinnamon. Alternatively you can easily compile and run the program in Terminal with the added shell script:
 
-$ sh ./GTKXMLTableView.sh
+$ sh ./GTKMolecularFormula.sh
 
 Since I switched from macOS to Fedora Linux (for what reasons ever) I had to change my programming language. For "simplicity" I choose C++ and to my pleasure found its "way to think" very similar to Swift and Objective-C. In some aspects I found C++ in combination with GTK easier compared to Swift ... Furthermore with the gtkmm wrapper you have an excellent tool for developing own programs.
 
